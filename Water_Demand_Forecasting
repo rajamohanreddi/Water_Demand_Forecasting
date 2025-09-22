@@ -77,7 +77,8 @@ future_forecast = pd.Series(loaded_model.forecast(10), index=future_index)
 print("\n🔮 Future Water Demand Forecast (Next 10 years):")
 print(future_forecast)
 
-
+output:-
+![img alt](https://github.com/rajamohanreddi/Water_Demand_Forecasting/blob/1ee36c5daad40f4725b54f871cbd8d6e1b271db0/Screenshot%202025-09-22%20222613.png)
 
 
 
