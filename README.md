@@ -30,4 +30,4 @@ water-demand-forecasting/
 🔧 Installation
 Clone the repository
 
-![img alt](Screenshot 2025-09-22 222537.png)
+![img alt](https://github.com/rajamohanreddi/Water_Demand_Forecasting/blob/0a56fd5c0d6bc15a92ba775c8804717d7e28ce9c/Screenshot%202025-09-22%20222537.png)
